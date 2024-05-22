@@ -2,3 +2,4 @@
 *.zip
 .env
 /packages_for_lambda/python
+*.pbix
