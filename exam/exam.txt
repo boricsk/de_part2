@@ -1,0 +1,12 @@
+Szia,
+
+A vizsgára csináltam egy projectet teljesen előről. Igaz nem olyan komplex mint a taxi,
+de legalább végig tudtam menni mégegyszer az egész folyamaton. Ez az Electricity-ről 
+kéri le az óránkénti karbon emissziós értékeket, fogyasztási és termelési adatokat.
+Ezeket dolgoztam fel. A vizualizációs rész Power BI-ben van, ez itt tudot megnézni
+a Power BI menüpont alatt : https://devnullsec.hu/
+
+A gitHub oldal pedig itt érhető el : https://github.com/boricsk/hobby-projects
+
+(A taxi tripsnél a 08-local_visualization.ipynb fileban van néhány gagyi vizualizáció is.
+Ebben még fejlődnöm kell.)
